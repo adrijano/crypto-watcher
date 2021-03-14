@@ -76,7 +76,7 @@ python cw-web.py
 
 ![CW](screen4.png)
 
-![CW](screen5.png)
+![CW](screen5.PNG)
 
 
 ## Donations
