@@ -1,3 +1,7 @@
+# New update added more cryptocurrencies and GBP
+
+
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
@@ -7,10 +11,6 @@
 
 
 ![CW](MainImage.gif)
-
-**Youtube video &#9661;&#9661;&#9661;**
-
-[![Alt text](https://img.youtube.com/vi/gMSICR1aLKo/0.jpg)](https://www.youtube.com/watch?v=gMSICR1aLKo)
 
 ![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
 
@@ -37,6 +37,16 @@ Crypto-watcher is simple program showing price of cryptocurrency in USD and EUR.
 6) Pax - Paxos standard
 
 7) Xlm - Stellar
+
+8) Link - Chainlink
+
+9) Omg - OMG Network
+
+10) Knc - Kyber Network
+
+11) Mkr - Maker
+
+12) Zrx - 0x
 ```
 **Programmed in Python | PySimpleGUI**
 
@@ -58,14 +68,6 @@ python cw.py
 python cw-web.py
 
 ```
-
-### Windows
-```
-cd dist
-
-cw.exe
-```
-
 ![CW](screen1.png)
 
 ![CW](screen2.png)
@@ -74,9 +76,8 @@ cw.exe
 
 ![CW](screen4.png)
 
-![CW](screenweb.png)
+![CW](screen5.png)
 
-![CW](screenweb2.png)
 
 ## Donations
 If you would like to support me, donations are very welcome.
